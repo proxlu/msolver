@@ -1,0 +1,17 @@
+msolver - by: edu@bodhi
+
+Descrição:
+msolver é um resolvedor dos captchas da Microsoft para Docker.
+O mesmo resolve os captchas de áudio, pelo arquivo .wav baixado.
+
+Uso:
+Basta ter o arquivo .wav na pasta Downloads e executar msolver.
+Ao executar, msolver retornará o resultado do captcha.
+Após obter o resultado do captcha, msolver irá remover o arquivo .wav.
+
+Considerações finais:
+Obrigado por ler até aqui e use esse software com sabedoria.
+
+--
+Eduardo Solano
+contatodudu@yahoo.com
